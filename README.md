@@ -10,7 +10,7 @@
 
 ## :inbox_tray: Download
 
-You can find the lasted compiled executable the [releases](https://github.com/mov-ebx/Clipboard-Cycler/releases/latest).
+You can find the latest compiled executable the [releases](https://github.com/mov-ebx/Clipboard-Cycler/releases/latest).
 
 Keep in mind, this program only works in Windows.
 
